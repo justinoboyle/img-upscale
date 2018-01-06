@@ -1,0 +1,11 @@
+Research project - Image upscaling.
+
+Install dependencies:
+
+npm i
+
+Run examples:
+
+./start
+
+Works best on POSIX-compliant operating systems. Untested on Windows.
